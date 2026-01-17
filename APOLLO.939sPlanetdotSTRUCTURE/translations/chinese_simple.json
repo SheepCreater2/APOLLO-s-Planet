@@ -1,0 +1,138 @@
+{
+
+  "UIDictionary": {
+    "Soaring Boulder": "飞石",
+    "Homely Body": "宜居星",
+    "Slag": "矿渣星",
+    "Sl3g": "矿查星",
+    "S1ag": "石广渣星",
+    "MagMag": "岩浆星",
+    "Miny": "迷你星",
+    "Balagas": "巴拉加斯",
+
+    "APOLLO handed you your win": "APOLLO给了你奖励",
+  }, //ui翻译，如地图模式中各行星的名字，信号枪中各种信号的名字
+
+  "DialogueDictionary": {
+    //BalagasDreamSpeak.xml
+    "Balagas: yep... this sure is one big ball O' gas. just don't move too fast or else it'll be a pain finding your way back to the center.": "巴拉加斯：没错...这确实是个大气球。不过别动太快，不然很难找回中心位置。",
+    "this moon might be one that contributes most to the tidal forces that heat up MagMag. as for what gas this is; i don't know. doesn't take a chemist to know it isn't breathable": "这颗卫星可能是岩浆星潮汐力的主要来源。至于是什么气体...反正不是能呼吸的就对了。",
+    "speaking of gas, how'd this moon accumulate so much of it? its core is so tiny!": "说到气体，这么小的核心是怎么聚集这么多气体的？",
+
+    //ernestosDreamSpeak.xml
+    "Ernesto": "厄内斯托",
+    "yo": "哟",
+    "*sniff* sup": "*嗅嗅* 咋了",
+    "chilling.": "溜达呢。",
+    "I've met you in multiple places far from here.": "我在很远的地方都见过你。",
+    "huh, wonder what's up with that": "哈，谁知道怎么回事呢",
+
+    //HBappoloDreamSpeak.xml
+    "Hey! Glad you made it!": "嘿！很高兴你来了！",
+    "What is there to do?": "有什么可做的？",
+    "there's lighting glitches with Slag and Homely Body": "矿渣星和宜居星有光照问题",
+    "do you think Soaring Boulder is the thing that crashed into Homely Body?": "你觉得飞石就是撞上宜居星的那个东西吗？",
+    "i found and read all the recorders!": "我找到并读完了所有记录仪！",
+    "leave": "离开",
+    "Huh? What do you mean? Aren’t the sights enough?": "嗯？你什么意思？看看风景还不够吗？",
+    "Well, wouldn’t a good mod have a win condition?": "好的模组不该有个胜利条件吗？",
+    "Well it’s not like this mod is winning any contests but you’re right.": "虽然这模组赢不了比赛...但你说得对。",
+    "Hm… tell you what, let’s make a deal. I’ve jotted down notes about each moon here and made the 1000 iq play of leaving them there. You visit each body, find and read what each note has to say then come back to me and I hand you your win. How’s that sound?": "这样吧，我在每个卫星都留了笔记，你去找来读完，我就给你胜利奖励，如何？",
+    "got it, sounds like a plan.": "明白，就这么说定了。",
+    "I know... :broken_heart:": "我知道...（QAQ）",
+    "worst part is i don't even know what causing it, much less how to fix it. the OW modding discord couldn't come up with anything.": "最糟的是我连原因都不知道，更别说修复了。OW模组社区也没辙。",
+    "back": "返回",
+    "... you know what that would explain why it has it's own subtle gravity, must've been so dense as to survive the crash.": "...这倒解释了它为什么有引力，密度够大才能幸存。",
+    "i just hope that throwing it into orbit doesn't count as vandalism in any sense": "希望把它扔进轨道不算破坏公物...",
+    "great! i hope you could wait a sec because some credits are in order": "太好了！稍等一下，我要感谢一些人",
+    "go for it": "请讲",
+    "first, a special thank you to GameWyrm for helping get this mod off the ground by helping with fixing a game-breaking bug that could also effect normal players and also by introducing me to helpful tools that really streamlined the process!": "特别感谢GameWyrm帮忙解决影响普通玩家的致命bug，还介绍了超棒的工具！",
+    "thank you to Vambok, solec, Trifid, MegaPiggy and HawkBar for helping me figure out issues and to learn certain aspects of modding like dealing with MXLs. especially when you consider some of them are working on their own jam entries yet still decided to take time to help me which was really kind!": "感谢Vambok、solec等人指导我处理MXL等问题，他们自己也在做参赛作品却抽空帮我，太暖心了！",
+    "continue": "继续",
+    "and thank you to braindead enthusiast for all the kind words during this mod's development. i wish you the best of luck on your own endevours!": "感谢braindead enthusiast的鼓励，祝你好运！",
+    "if you can attest to helping me and weren't mentioned and feel scammed, then thank you and i opologize": "如果被遗漏的协助者，我深表歉意并同样感谢！",
+    "so... about that win?": "那...奖励呢？",
+    "oh right. here, just stand infront of me so i can properly give it, it's kinda awkward from this angle": "哦对，来我面前好给你颁奖，这个角度太别扭了",
+    "see ya!": "回见！",
+
+    //HBDreamSpeak.xml
+    "Homely Body: a moon within MagMag's habitable zone. it's defining features are the lake and mountain that are positioned opposide to eachother.": "宜居星：位于岩浆星宜居带的卫星，特征是对立的湖泊和山脉。",
+    "i have a theory, maybe something hit this moon and instead of making a mess and recollecting, it pushed all the mass through the other side, resulting in the mountain.": "我猜可能是撞击把物质都推到另一侧形成了山，而非散落各处。",
+    "...so yeah, i think that's all i wanted to say. now how do i stop this thing... ": "...就这些。现在怎么关掉这玩意儿...",
+    "*shuffle* NO! *splash* (gargled) i am going to swear out of sheer rage": "*挣扎声* 不！*落水声* (含糊) 我要骂人了！",
+
+    //MagMagDreamSpeak.xml
+    "MagMag: aka what's currently death staring me straight in the face is a rouge ringed lava planet that's hot enough to act as a star to its moons.": "岩浆星：这个直勾勾瞪着我的流氓熔岩行星，热得能当卫星的太阳。",
+    "this heat is kept alive by the tidal forces from MagMag's moons that pull and churn the surface, keeping it hot with friction. though almost hypocritically, the moons don't seem to effect eachother one bit! weird..": "卫星的潮汐力搅动表面产生摩擦热。讽刺的是卫星间却互不影响！怪哉..",
+    "by the looks of it this process could outlast any star! though i'm not sure if that'd come in handy. that'd require that all of the stars be at the end of their lives! ": "这热度比恒星还持久！不过除非所有恒星都濒死，否则没啥用。",
+    "like imagine how unlucky you'd have to be to exist at just the right point in time to see the universe die right before your very eyes! that'd suck! :clueless:": "想想得多倒霉才能刚好见证宇宙灭亡！太惨了！(LoL)",
+
+    //MinyDreamSpeak.xml
+    "miny: the icey outer-most moon that also acts as a shepard moon to MagMag's rings. being positioned at the rings, it ofcourse has accumulated the debris at the sides, creating a unique shape.": "迷你星：最外侧的冰卫星，也是岩浆星环的牧羊卫星，两侧积累了碎屑形成独特形状。",
+    "this moon being the farthest kinda reminds of those dwarf planets that are super far from their parent star, positioned in asteroid belts": "这让我想起小行星带里那些远离恒星的矮行星。",
+    "it's actually pretty cool seeing the rings from here. especially when seeing yourself pass through the rings whilst on Miny": "从这里看星环超酷，特别是在迷你星上穿越环的时候。",
+    "side note: unless you have something to get you back down, don't jump on this moon": "注意：没降落手段就别在这跳。",
+
+    //SBDreamSpeak.xml
+    "soaring Boulder: so when i came back to shore after accidentally dropping my first recorder i found this big rock.": "飞石：我弄丢第一个记录仪后，在岸边发现了这块大石头。",
+    "i noticed that i could move it with a good amount of ease thanks to this moon's low gravity so i rolled it up the hill which sounds like the basis for a greek tragedy and chucked it into orbit cuz it'd be funny. ": "借着低重力我把它滚上山（就像西西弗斯那样），然后扔进轨道图个乐子。",
+    "so as it turns out this not a naturally forming moon of a moon. it's exactly what it says on the tin, it's just a boulder.": "结果这根本不是天然卫星的卫星，就是个普通石头。",
+    "though side note about that lake; i swear i saw movement from inside so yeah, i'm not going back there. not even to recover my recorder.": "顺便说那个湖...我发誓看到里面有东西，所以打死也不回去找记录仪了。",
+    "alright now to place it there so any visitors can learn whilst visiting. i'm at the same mountain so i just just need to wait for Soaring Boulder to come around again.": "现在把它放这儿供访客学习。我在同一座山等飞石转回来就行。",
+    "Oh! there it is! alright... *whoosh*...*smack followed by distant cheering*": "哦！来了！...*嗖*...*啪嗒声伴着远处欢呼*",
+
+    //SlagDreamSpeak.xml
+    "Slag: is a small moon or rather a cluster of chunks of the same moon that were ripped apart due to tidal forces.": "矿渣星：说是卫星，其实是被潮汐力撕碎的同一颗卫星的碎片群。",
+    "these chunks are currently orbiting in the upper-most and thinnest layer of MagMag's atmosphere! how they aren't already long gone is beyond me.": "这些碎片居然在岩浆星最外层大气轨道上！怎么还没烧没真是奇迹。",
+    "and knowing that makes me being here even more reckless and stupid! so now it's time to record MagMag's analysis. to do that i'll go to Slag's underside.": "知道这点还来真是蠢爆了！现在要记录岩浆星数据，得去碎片底部。",
+    "yes that's stupid but i can't visit MagMag itself. i'm not \"try to stand on lava\" teir stupid": "对很蠢，但总比“试试站在熔岩上”那种蠢强。",
+
+    //StationApolloDreamSpeak.xml
+    "Hello there!": "你好啊！",
+    "hello": "你好",
+    "The mod you’re about to see doesn’t have a big, epic story…": "这个模组没有宏大故事...",
+    "but what it DOES have is lots of funny little moons! you wanna see?": "但有很多有趣的小卫星！想看吗？",
+    "Sure!": "当然！",
+    "say no out of spite": "故意说不",
+    "great! see you there! Just make sure you fly into the blackhole with your ship as opposed to walking straight in": "太好了！记得开飞船进黑洞，别走进去！",
+    "sounds horrible out of context but o-kay!": "断章取义听起来好可怕...行吧！",
+    "but i just said no": "但我刚说了不",
+    "but by choosing to download this mod you've already decided you'd be willing to play it": "但下载模组就说明你想玩啊",
+    "...": "..."
+    //"see ya!": "回见！"
+  }, //对话翻译，如挪麦文字、录音机、人物对话等，还有角色的名字也要放在这里
+
+  "ShipLogDictionary": {
+    //B_fact.xml
+    "Balagas": "巴拉加斯",
+    "I found and read the recorder for Balagas at its core!": "我在巴拉加斯的核心处找到并阅读了记录仪！",
+
+    //HB_fact.xml
+    "Homely Body": "宜居星",
+    "I found and read the recorder for Homely Body in its lake!": "我在宜居星的湖泊中找到并阅读了记录仪！",
+    "i won!": "我赢了！",
+    "i completed APOLLO's task and he handed me my win! it was a picture of a CGI trophy with the caption \"YOU'RE WINNER !\"": "我完成了APOLLO的任务，他给了我奖励！是一张CGI奖杯图片，上面写着“你是赢家！”",
+
+    //M_fact.xml
+    "Miny": "迷你星",
+    "I found and read the recorder for Miny!": "我找到并阅读了迷你星的记录仪！",
+
+    //MagMag_fact.xml
+    "MagMag": "岩浆星",
+    "I found and read the recorder for MagMag on the underside of Slag and nearly died!": "我在矿渣星底部找到并阅读了岩浆星的记录仪，差点死掉！",
+
+    //S_fact.xml
+    "Slag": "矿渣星",
+    "I found and read the recorder for Slag!": "我找到并阅读了矿渣星的记录仪！",
+
+    //SB_fact.xml
+    "Soaring Boulder": "飞石",
+    "I found and read the recorder for Soaring Boulder!": "我找到并阅读了飞石的记录仪！"
+
+  }, //飞船日志翻译，飞船日志中的各种信息
+
+  "AchievementTranslations": {
+
+
+  } //成就翻译（需下载Achievement+）
+}
